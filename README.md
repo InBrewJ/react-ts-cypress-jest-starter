@@ -4,6 +4,7 @@ Feel free to use this as a template - on GitHub there's a button above to do jus
 
 - Node 13.13
 - React + TS (with CRA)
+- Coverage set up for Jest
 - Cypress + Gherkin/Cucumber + TS
 - Jest
 - Yarn
