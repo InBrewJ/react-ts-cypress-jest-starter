@@ -32,7 +32,7 @@ More from Gleb:
 ## Run tests
 
 ```
-$ yarn test && yarn e2e
+$ yarn test:all
 ```
 
 The hope is that the tests themselves document what they are for. One can dream.
