@@ -19,7 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "test:all": "npm test -- --watchAll=false && npm run cy:headless",
+    "test:all": "echo '*** Dev server must be started first for Cypress to work! ***' && npm test -- --watchAll=false && npm run cy:headless",
     "test:coverage": "npm test -- --coverage",
     "eject": "react-scripts eject",
     "cy:open": "npx cypress open",
